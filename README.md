@@ -18,4 +18,6 @@ Josephat Ole Shangiti
 - Contact Information
 If you have any question or contributions, please email me at jshangiti@gmail.com
 
-- License Copyright (c) 2022 Josephat Ole Shangiti
+- License Copyright:
+
+(c) 2022 Josephat Ole Shangiti

@@ -146,7 +146,6 @@
             return ret;
         },
 
-        // Execute a callback for every element in the matched set.
         each: function (callback) {
             return jQuery.each(this, callback);
         },

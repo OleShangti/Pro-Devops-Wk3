@@ -330,10 +330,6 @@ progress {
     outline-offset: -2px;
 }
 
-[type="search"]::-webkit-search-decoration::-webkit-file-upload-button {
-    font: inherit;
-}
-
 output {
     display: inline-block;
 }

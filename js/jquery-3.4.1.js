@@ -122,7 +122,6 @@
         // Get the whole matched element set as a clean array
         get: function (num) {
 
-            // Return all the elements in a clean array
             if (num == null) {
                 return slice.call(this);
             }
